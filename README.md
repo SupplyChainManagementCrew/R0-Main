@@ -3,11 +3,11 @@
 ## - TEAM ROLE
 | ROLE | NAME |
 |----------|-----|
-| Project Manager | 박민성🦖 |
-| Tech Leader | 심규혁🐼 |
-| Agile Coach | 이동혁🧛‍♂️ |
-| Presenter | 전승민🐹 |
-| Git Manager | 임성현👻 |
+| Project Manager | [박민성🦖](https://github.com/parc02) |
+| Tech Leader | [심규혁🐼](https://github.com/shimguh) |
+| Agile Coach | [이동혁🧛‍♂️](https://github.com/ldh0308) |
+| Presenter | [전승민🐹](https://github.com/CoffeerLatte) |
+| Git Manager | [임성현👻](https://github.com/dhkdtld37) |
 
 
 - 공급망 관리를 위한 주문 시스템
