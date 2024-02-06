@@ -17,7 +17,7 @@
 
 - 공급망 관리를 위한 주문 시스템
 
-## 요구사항
+## - 요구사항
 1. 주문서를 받는 것. - 이동혁
 2. 공급에 정보가 확실하게 나와야함. -전승민
 3. 큰 아이템을 하나 정해야함 - 심규혁, 박민성
@@ -33,12 +33,12 @@
 13. 주마다 제품의 이동량에 대한 로직 생성 - 이동혁
 14. 검색기능, 정렬 - 심규혁
 
-## 제약조건
+## - 제약조건
 1. 크롬에서만 작동한다, explorer 작동 x - 박민성
 2. 너무 많은 정보를 담을 순 없다. json의 항목들 - 전승민
 3. 당일 주문은 11시까지만 가능하다 - 이동혁, 임성현
 
-## Repositories
+## - Repositories
 - [R0-Main](https://github.com/SupplyChainManagementCrew/R0-Main)
 - [R1-Json-Server](https://github.com/SupplyChainManagementCrew/R1-Json-Server)
 - [R2-Express](https://github.com/SupplyChainManagementCrew/R2-Express)
