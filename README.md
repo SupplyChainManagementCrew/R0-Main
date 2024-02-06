@@ -1,4 +1,5 @@
 # SCMC (SCM Crew)
+![Bard_Generated_Image (1)](https://github.com/SupplyChainManagementCrew/R0-Main/assets/125641153/b35534ba-5bd9-4f3d-b798-127c286d5a7b)
 
 ## - TEAM ROLE
 
