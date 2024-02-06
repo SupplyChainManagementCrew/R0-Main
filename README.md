@@ -44,3 +44,6 @@
 - [R2-Express](https://github.com/SupplyChainManagementCrew/R2-Express)
 - [R3-BPM](https://github.com/SupplyChainManagementCrew/R3-NPM)
 - [R4-Vue](https://github.com/SupplyChainManagementCrew/R4-VUE-)
+
+## Kanban Board
+- https://github.com/orgs/SupplyChainManagementCrew/projects/1
