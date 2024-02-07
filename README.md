@@ -49,6 +49,9 @@
 - [R3-BPM](https://github.com/SupplyChainManagementCrew/R3-NPM)
 - [R4-Vue](https://github.com/SupplyChainManagementCrew/R4-VUE-)
 
+# - 구현 영상
+https://github.com/beyond-sw-camp/be01_3nd_Ramen-Syndrome/assets/148880521/70689053-a7bc-4e96-8f58-1610da9ab0d3
+
 ## - Kanban Board
 - Kanban 회의는 매일 9시20분, 5시 정각에 진행한다
 - https://github.com/orgs/SupplyChainManagementCrew/projects/1
