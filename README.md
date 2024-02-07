@@ -15,7 +15,8 @@
 
 <br>
 
-- 공급망 관리를 위한 주문 시스템
+## - Project Topic
+<b> 공급망 관리를 위한 주문 시스템 </b>
 
 ## - 요구사항
 1. 주문서를 받는 것. - 이동혁
@@ -51,3 +52,5 @@
 
 ## - 중간 통합 레포
 - https://github.com/SupplyChainManagementCrew/R4-VUE-
+
+
