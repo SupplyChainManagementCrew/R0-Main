@@ -46,7 +46,7 @@
 - [R0-Main](https://github.com/SupplyChainManagementCrew/R0-Main)
 - [R1-Json-Server](https://github.com/SupplyChainManagementCrew/R1-Json-Server)
 - [R2-Express](https://github.com/SupplyChainManagementCrew/R2-Express)
-- [R3-BPM](https://github.com/SupplyChainManagementCrew/R3-NPM)
+- [R3-NPM](https://github.com/SupplyChainManagementCrew/R3-NPM)
 - [R4-Vue](https://github.com/SupplyChainManagementCrew/R4-VUETI)
 
 # - 구현 영상
