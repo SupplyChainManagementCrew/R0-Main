@@ -47,7 +47,7 @@
 - [R1-Json-Server](https://github.com/SupplyChainManagementCrew/R1-Json-Server)
 - [R2-Express](https://github.com/SupplyChainManagementCrew/R2-Express)
 - [R3-BPM](https://github.com/SupplyChainManagementCrew/R3-NPM)
-- [R4-Vue](https://github.com/SupplyChainManagementCrew/R4-VUE-)
+- [R4-Vue](https://github.com/SupplyChainManagementCrew/R4-VUETI)
 
 # - 구현 영상
 https://github.com/beyond-sw-camp/be01_3nd_Ramen-Syndrome/assets/148880521/70689053-a7bc-4e96-8f58-1610da9ab0d3
